@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "title": "Campera de nena",
+    "description": "Campera de nena 100% algodón talle 2 con cierre, decoraciones aplicadas y bolsillos",
+    "price": 5500,
+    "stock": 8,
+    "code": "María",
+    "category": "talle 2",
+    "status": true,
+    "thumbnails": []
+  },
+  {
+    "id": 2,
+    "title": "Campera de niño",
+    "description": "Campera de niño 100% algodón talle 2 con cierre, decoraciones aplicadas y bolsillos",
+    "price": 5500,
+    "stock": 12,
+    "code": "Eduardo",
+    "category": "talle 2",
+    "status": true,
+    "thumbnails": []
+  },
+  {
+    "id": 3,
+    "title": "Buzo de nena con capucha",
+    "description": "Buzo de nena 100% algodón talle 2, decoraciones aplicadas y bolsillo",
+    "price": 5000,
+    "stock": 5,
+    "code": "Jazmin",
+    "category": "talle 2",
+    "status": true,
+    "thumbnails": []
+  },
+  {
+    "id": 4,
+    "title": "Buzo de niño con capucha",
+    "description": "Buzo de niño 100% algodón talle 2, decoraciones aplicadas y bolsillo",
+    "price": 5000,
+    "stock": 4,
+    "code": "Marco",
+    "category": "talle 2",
+    "status": true,
+    "thumbnails": []
+  }
+]
